@@ -49,3 +49,12 @@ npm run dev
 
 After running, the frontend will be accessible at:
 http://localhost:5173
+
+### 3. Login Credentials
+
+Use this credentials to login into the dashboard:
+
+```bash
+Username : test@test.com
+Password : test
+```
